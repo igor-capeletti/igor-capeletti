@@ -4,11 +4,12 @@
 - 🔭 Atualmente em meu TCC da graduação desenvolvi e analisei vários programas eBPF/XDP para processar pacotes de rede nos dispositivos de encaminhamendo do plano de dados. [tcc_eBPF_XDP](https://github.com/igor-capeletti/tcc_eBPF_XDP)
 
 
-- 📫 Emails para contato **igorcapeletti.aluno@unipampa.edu.br, igor-capeletti@hotmail.com**
-
+- 📫 Emails para contato:
+ <br>igorcapeletti.aluno@unipampa.edu.br
+ <br>igor-capeletti@hotmail.com
 <br>
 
-# Contato:
+## Contato:
 <p align="left">
 <a href="https://linkedin.com/in/igor-ferrazza-capeletti-7111a3165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-ferrazza-capeletti-7111a3165/" height="30" width="40" /></a>
 <a href="https://kaggle.com/igorfc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="igorfc" height="30" width="40" /></a>
@@ -19,7 +20,7 @@
 
 <br>
 
-#  Meus Conhecimentos
+##  Meus Conhecimentos
 
 <h3 align="left">Linguagens de Programação:</h3>
 <p align="left">
