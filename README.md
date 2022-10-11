@@ -6,7 +6,9 @@
 
 - 📫 Emails para contato **igorcapeletti.aluno@unipampa.edu.br, igor-capeletti@hotmail.com**
 
-<h3 align="left">Contato:</h3>
+<br>
+
+# Contato:
 <p align="left">
 <a href="https://linkedin.com/in/igor-ferrazza-capeletti-7111a3165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-ferrazza-capeletti-7111a3165/" height="30" width="40" /></a>
 <a href="https://kaggle.com/igorfc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="igorfc" height="30" width="40" /></a>
@@ -14,6 +16,10 @@
 <a href="https://instagram.com/igoor_capeletti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igoor_capeletti/" height="30" width="40" /></a>
 <a href="https://discord.gg/CarinhaDoTI#4465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CarinhaDoTI#4465" height="30" width="40" /></a>
 </p>
+
+<br>
+
+#  Meus Conhecimentos
 
 <h3 align="left">Linguagens de Programação:</h3>
 <p align="left">
