@@ -1,15 +1,21 @@
 <h1 align="center">Olá 👋, eu sou Ígor Ferrazza Capeletti</h1>
-<h3 align="center">Eu gosto de desenvolver códigos organizados, limpos e com boa documentação para facilitar a aprendizagem e colaboração da comunidade.</h3>
+<h3 align="center">Trabalho no desenvolvimento de códigos organizados, limpos e com boa documentação para facilitar a aprendizagem e colaboração da comunidade.</h3>
 
-- 🔭 Atualmente em meu TCC da graduação desenvolvi e analisei vários programas eBPF/XDP para processar pacotes de rede nos dispositivos de encaminhamendo do plano de dados. [tcc_eBPF_XDP](https://github.com/igor-capeletti/tcc_eBPF_XDP)
+## Formação:
+- :man_student: Engenharia Elétrica (em andamento), Linha de pesquisa: Otimização de Sistemas - [UNIPAMPA](http://novoportal.unipampa.edu.br/novoportal/), Alegrete-RS.
+- :man_student: Curso de Inglês (em andamento) - SENAC, Alegrete-RS.
 
 
-- 📫 Emails para contato:
- <br>igorcapeletti.aluno@unipampa.edu.br
- <br>igor-capeletti@hotmail.com
-<br>
+- :mortar_board: Bacharel em Ciência da Computação (Concluído, 2018-2022) - [UNIPAMPA](http://novoportal.unipampa.edu.br/novoportal/), Alegrete-RS. TCC: Desenvolvimento e análise de vários programas eBPF/XDP para processar pacotes de rede nos dispositivos de encaminhamendo do plano de dados. [tcc_eBPF_XDP](https://github.com/igor-capeletti/tcc_eBPF_XDP)
+- :mortar_board: Técnico de Informática (Concluído, 2014-2016) - [Escola Técnica Estadual 25 de Julho](https://escola25dejulho.com.br/), Ijuí-RS.
+
+
 
 ## Contato:
+📫 igorcapeletti.aluno@unipampa.edu.br
+
+📫 igor-capeletti@hotmail.com
+ 
 <p align="left">
 <a href="https://linkedin.com/in/igor-ferrazza-capeletti-7111a3165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-ferrazza-capeletti-7111a3165/" height="30" width="40" /></a>
 <a href="https://kaggle.com/igorfc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="igorfc" height="30" width="40" /></a>
