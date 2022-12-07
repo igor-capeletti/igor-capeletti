@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Ígor Ferrazza Capeletti</h1>
-<h3 align="center">Trabalho no desenvolvimento de códigos organizados, limpos e com boa documentação para facilitar a aprendizagem e colaboração da comunidade.</h3>
+<h3 align="center">Busco sempre produzir códigos organizados, limpos e com boa documentação para facilitar a aprendizagem e colaboração da comunidade.</h3>
 
 ## Formação:
 - :man_student: Engenharia Elétrica (em andamento), Linha de pesquisa: Otimização de Sistemas - [UNIPAMPA](http://novoportal.unipampa.edu.br/novoportal/), Alegrete-RS.
