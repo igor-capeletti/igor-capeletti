@@ -9,7 +9,7 @@
 - :mortar_board: Bacharel em Ciência da Computação (Concluído, 2018-2022) - [UNIPAMPA](http://novoportal.unipampa.edu.br/novoportal/), Alegrete-RS. TCC: Desenvolvimento e análise de vários programas eBPF/XDP para processar pacotes de rede nos dispositivos de encaminhamendo do plano de dados. [tcc_eBPF_XDP](https://github.com/igor-capeletti/tcc_eBPF_XDP)
 - :mortar_board: Técnico de Informática (Concluído, 2014-2016) - [Escola Técnica Estadual 25 de Julho](https://escola25dejulho.com.br/), Ijuí-RS.
 
-
+Gosto muito de programação, sim, por incrível que pareça, quando estou com algum tempo livre uso para estudar algum cursinho de programação ou dedico um tempo extra para algum código que ainda não está pronto ou que pode ser melhorado. Vivo na frente do computador trabalhando, mas sim, também tenho meus momentos para correr, escutar música e jogar uns games.
 
 ## Contato:
 📫 igorcapeletti.aluno@unipampa.edu.br
