@@ -1,6 +1,10 @@
 <h1 align="center">Olá 👋, eu sou Ígor Ferrazza Capeletti</h1>
 <h3 align="center">Busco sempre produzir códigos organizados, limpos e com boa documentação para facilitar a aprendizagem e colaboração da comunidade.</h3>
 
+## Experiência:
+- 🖥️ Desenvolvedor Back-end Home Office na empresa [CITeB](https://www.linkedin.com/company/fundacaociteb/mycompany/verification/) (Biguaçu-SC).
+
+
 ## Formação:
 - :man_student: Engenharia Elétrica (em andamento), Linha de pesquisa: Otimização de Sistemas - [UNIPAMPA](http://novoportal.unipampa.edu.br/novoportal/), Alegrete-RS.
 - :man_student: Curso de Inglês (em andamento) - SENAC, Alegrete-RS.
