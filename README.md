@@ -14,7 +14,7 @@
 - :mortar_board: Técnico de Informática (Concluído, 2014-2016) - [Escola Técnica Estadual 25 de Julho](https://escola25dejulho.com.br/), Ijuí-RS.
 
 ## Contato:
-📫 igorcapeletti.aluno@unipampa.edu.br
+📫 igorfcapeletti@gmail.com
 
 📫 igor-capeletti@hotmail.com
  
