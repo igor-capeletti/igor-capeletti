@@ -1,17 +1,27 @@
 <h1 align="center">Olá 👋, eu sou Ígor Ferrazza Capeletti</h1>
-<h3 align="center">Busco sempre produzir códigos organizados, limpos e com boa documentação para facilitar a aprendizagem e colaboração da comunidade.</h3>
+<h3 align="center">Estou sempre em busca de novos desafios e oportunidades. Atualmente estou trabalhando na empresa CITeB e meu tempo extra estou dedicando para estudar e desenvolver um software desktop complexo com Front-end em JavaScript e Back-end em GoLang e MongoDB.</h3>
 
 ## Experiência:
 - 🖥️ Desenvolvedor Back-end Home Office na empresa [CITeB](https://www.linkedin.com/company/fundacaociteb/mycompany/verification/) (Biguaçu-SC).
-
+  - Linguagens de Programação utilizadas: Lua, C, C++, ShellScript, OpenWRT
+<br>
 
 ## Formação:
 - :man_student: Engenharia Elétrica (em andamento), Linha de pesquisa: Otimização de Sistemas - [UNIPAMPA](http://novoportal.unipampa.edu.br/novoportal/), Alegrete-RS.
-- :man_student: Curso de Inglês (em andamento) - SENAC, Alegrete-RS.
+<br>
 
+- :man_student: Curso de Inglês Presencial (em andamento) - Yázigi, Ijuí-RS (desde Março de 2025).
+<br>
 
-- :mortar_board: Bacharel em Ciência da Computação (Concluído, 2018-2022) - [UNIPAMPA](http://novoportal.unipampa.edu.br/novoportal/), Alegrete-RS. TCC: Desenvolvimento e análise de vários programas eBPF/XDP para processar pacotes de rede nos dispositivos de encaminhamendo do plano de dados. [tcc_eBPF_XDP](https://github.com/igor-capeletti/tcc_eBPF_XDP)
+- :mortar_board: Bacharel em Ciência da Computação (Concluído, 2018-2022) - [UNIPAMPA](http://novoportal.unipampa.edu.br/novoportal/), Alegrete-RS.
+  - TCC: Desenvolvimento e análise de programas eBPF/XDP para processar pacotes de rede nos dispositivos de encaminhamendo do plano de dados. [tcc_eBPF_XDP](https://github.com/igor-capeletti/tcc_eBPF_XDP)
+  - Linguagens de Programação utilizadas durante o curso: C, C++, ShellScript, JavaScript
+  - Linguagens de Marcação utilizadas durante o curso: HTML e CSS
+<br>
+
 - :mortar_board: Técnico de Informática (Concluído, 2014-2016) - [Escola Técnica Estadual 25 de Julho](https://escola25dejulho.com.br/), Ijuí-RS.
+  - Estágio como Técnico de Telecomunicações - Assisnet/Sygo Telecom (2016)
+<br>
 
 ## Contato:
 📫 igorfcapeletti@gmail.com
