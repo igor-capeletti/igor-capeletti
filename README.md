@@ -38,17 +38,7 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> | HTML | 2 years | Implementation for a company's website |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> | CSS | 2 years | Implementation for a company's website |
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=igor-capeletti&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=igor-capeletti&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=igor-capeletti&show_icons=true" />
-</picture>
+[![IgorCapeletti's GitHub stats-Highcontrast](https://github-readme-stats.vercel.app/api?username=igor-capeletti&show_icons=true&theme=highcontrast#gh-dark-mode-only)](https://github.com/igor-capeletti/#gh-dark-mode-only)
 
 ## Contact:
 📫 igorfcapeletti@gmail.com
