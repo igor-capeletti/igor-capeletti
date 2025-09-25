@@ -1,31 +1,57 @@
-<h1 align="center">Olá 👋, eu sou Ígor Ferrazza Capeletti</h1>
-<h3 align="center">Estou sempre em busca de novos desafios e oportunidades. Atualmente estou trabalhando na empresa CITeB e meu tempo extra estou dedicando para estudar e desenvolver um software desktop complexo com Front-end em JavaScript e Back-end em GoLang e MongoDB.</h3>
+# Hi there, I'm Igor Ferrazza, welcome to my GitHub 👋
 
-## Experiência:
-- 🖥️ Desenvolvedor Back-end Home Office na empresa [CITeB](https://www.linkedin.com/company/fundacaociteb/mycompany/verification/) (Biguaçu-SC).
-  - Linguagens de Programação utilizadas: Lua, C, C++, ShellScript, OpenWRT
-<br>
+## A little about myself
+- 💼 I'm currently developing web, desktop, and mobile software for companies using GoLang on the backend (Rest API) and MongoDB (database). On the frontend, I'm using JavaScript and React Native.
+- 💼 I worked at [CITeB](https://www.linkedin.com/company/fundacaociteb/mycompany/verification/) providing services as a back-end developer on embedded devices (Access Points) in [Intelbras](https://www.linkedin.com/company/intelbras/)' Zeus project. All my commits during my work at CITeB were made in Intelbras' exclusive GitLab. Programming languages ​​used:
+  - Lua (REST API and unit tests)
+  - OpenWRT (Operating System)
+  - C and ShellScript (low-level applications and services with hardware)
+  - Python (automated tests)
+- 🎓 English Course (in progress) - Yázigi, Ijuí-RS (since March 2025).
+- 🎓 Bachelor of Computer Science (Completed, 2018-2022) - [UNIPAMPA](http://novoportal.unipampa.edu.br/novoportal/), Alegrete-RS.
+  - Final project: Development and analysis of eBPF/XDP programs to process network packets in data plane forwarding devices. [tcc_eBPF_XDP](https://github.com/igor-capeletti/tcc_eBPF_XDP)
+- 🎓 Computer Technician (Completed, 2014-2016) - [Escola Técnica Estadual 25 de Julho](https://escola25dejulho.com.br/), Ijuí-RS.
 
-## Formação:
-- :man_student: Engenharia Elétrica (em andamento), Linha de pesquisa: Otimização de Sistemas - [UNIPAMPA](http://novoportal.unipampa.edu.br/novoportal/), Alegrete-RS.
-<br>
 
-- :man_student: Curso de Inglês Presencial (em andamento) - Yázigi, Ijuí-RS (desde Março de 2025).
-<br>
+## Tech Stack 
+### Current
+| # | Tech | Experience Time | Relevant Jobs |
+|:-------------:|:-------------:|:-----:| :-----:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | C | 8 years | 1. Implementation of Graph Algorithm to perform and optimize the use of computing in SmartNICs devices at the edge of the Computer Network (Carried out as a master's degree theme - course not completed). <br> 2. Corrections and optimizations were made to the C packages that manage the software and hardware of Intelbras Access Points with OpenWRT OS. <br> 3. 90% of the University's work was developed in C. |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> | Python | 5 years | 1. Weather ChatBot. <br> 2. Analysis of accidents on Brazilian federal highways. <br> 3. Automated tests for execution and data collection of network packets processed in SmartNICs (university course completion work). <br> 4. Automated API and usability tests on Intelbras equipment. <br> 5. Data analysis and prediction system for Federal Lottery games (MegaSena, Lotofácil and Quina) - still under private development. |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> | ShellScript | 4 years | creating content... |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> | Lua | 2 years | creating content... |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> | Golang | 14 months | creating content... |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>| MongoDB | 14 months | creating content... |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> | GitHub | 5 years | creating content... |
+| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> | Figma | 5 years | creating content... |
+|  | OpenWRT | 2 years | creating content... |
+|  | GitLab | 2 years | creating content... |
 
-- :mortar_board: Bacharel em Ciência da Computação (Concluído, 2018-2022) - [UNIPAMPA](http://novoportal.unipampa.edu.br/novoportal/), Alegrete-RS.
-  - TCC: Desenvolvimento e análise de programas eBPF/XDP para processar pacotes de rede nos dispositivos de encaminhamendo do plano de dados. [tcc_eBPF_XDP](https://github.com/igor-capeletti/tcc_eBPF_XDP)
-  - Linguagens de Programação utilizadas durante o curso: C, C++, ShellScript, JavaScript
-  - Linguagens de Marcação utilizadas durante o curso: HTML e CSS
-<br>
+### Others
+| # | Tech | Experience Time | Relevant Jobs |
+|:-------------:|:-------------:|:-----:| :-----:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | C++ | 6 months | Development of a dynamic 3D scenario (work for the Computer Graphics course at the University) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> | PostgreSQL | 5 months | Development and performance testing of requests (Database course at the University) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> | MySQL | 5 months | Implementation for a company's website |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> | PHP | 2 years | Implementation for a company's website |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> | HTML | 2 years | Implementation for a company's website |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> | CSS | 2 years | Implementation for a company's website |
 
-- :mortar_board: Técnico de Informática (Concluído, 2014-2016) - [Escola Técnica Estadual 25 de Julho](https://escola25dejulho.com.br/), Ijuí-RS.
-  - Estágio como Técnico de Telecomunicações - Assisnet/Sygo Telecom (2016)
-<br>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=igor-capeletti&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=igor-capeletti&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=igor-capeletti&show_icons=true" />
+</picture>
 
-## Contato:
+## Contact:
 📫 igorfcapeletti@gmail.com
-
 📫 igor-capeletti@hotmail.com
  
 <p align="left">
@@ -35,42 +61,4 @@
 <a href="https://instagram.com/igoor_capeletti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igoor_capeletti/" height="30" width="40" /></a>
 <a href="https://discord.gg/CarinhaDoTI#4465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CarinhaDoTI#4465" height="30" width="40" /></a>
 </p>
-
-<br>
-
-##  Meus Conhecimentos
-
-<h3 align="left">Linguagens de Programação:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-
-  
-<h3 align="left">Ferramentas:</h3>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-    
-
-
-<h3 align="left">Bibliotecas Python:</h3>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-    
 
