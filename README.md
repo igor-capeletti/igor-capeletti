@@ -38,7 +38,7 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> | HTML | 2 years | Implementation for a company's website |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> | CSS | 2 years | Implementation for a company's website |
 
-[![IgorCapeletti's GitHub stats-Highcontrast](https://github-readme-stats.vercel.app/api?username=igor-capeletti&show_icons=true&theme=highcontrast#gh-dark-mode-only)](https://github.com/igor-capeletti/#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-capeletti&langs_count=8)
 
 ## Contact:
 📫 igorfcapeletti@gmail.com
