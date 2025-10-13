@@ -16,17 +16,19 @@
 ## Tech Stack 
 ### Current
 | # | Tech | Experience Time | Relevant Jobs |
-|:-------------:|:-------------:|:-----:| :-----:|
+|:-------------:|:-------------:|:-----:| :-----|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | C | 8 years | 1. Implementation of Graph Algorithm to perform and optimize the use of computing in SmartNICs devices at the edge of the Computer Network (Carried out as a master's degree theme - course not completed). <br> 2. Corrections and optimizations were made to the C packages that manage the software and hardware of Intelbras Access Points with OpenWRT OS. <br> 3. 90% of the University's work was developed in C. |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> | Python | 5 years | 1. Weather ChatBot. <br> 2. Analysis of accidents on Brazilian federal highways. <br> 3. Automated tests for execution and data collection of network packets processed in SmartNICs (university course completion work). <br> 4. Automated API and usability tests on Intelbras equipment. <br> 5. Data analysis and prediction system for Federal Lottery games (MegaSena, Lotofácil and Quina) - still under private development. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> | ShellScript | 4 years | creating content... |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> | Lua | 2 years | creating content... |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> | Golang | 14 months | creating content... |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>| MongoDB | 14 months | creating content... |
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> | GitHub | 5 years | creating content... |
-| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> | Figma | 5 years | creating content... |
-|  | OpenWRT | 2 years | creating content... |
-|  | GitLab | 2 years | creating content... |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> | ShellScript | 4 years | 1. University work development. <br> 2. Developments and improvements to Intelbras' ZeusOS operating system. |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="lua" width="40" height="40"/> | Docker | 2 years | 1. Container generation for Intelbras ZeusOS system API [documentation](https://api-product.intelbras.com.br/v4/). <br> 2. Pipeline generation of Intelbras' OpenWRT ZeusOS Operating System. <br> 3. Container generation for unit tests and automated tests. |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> | Lua | 2 years | 1. Development and improvements of Intelbras' ZeusOS REST API. <br> 2. Study and development of unit tests for Intelbras' ZeusOS REST API |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> | Golang | 14 months | Currently planning and developing a REST API from scratch to manage all stages of a service provider company and also product sales. |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>| MongoDB | 14 months | Currently planning and developing a Database from scratch to manage all stages of a service provider company and also product sales. |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> | GitHub | 5 years | Used to manage all my school and personal projects. |
+| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> | Figma | 5 years | Mobile and desktop application design for complete management of sales and service companies.
+ |
+|  | OpenWRT | 2 years | Developments and improvements to Intelbras' ZeusOS Operating System. |
+|  | GitLab | 2 years | Used to manage all the private projects I worked on in the API, Documentation and Intelbras ZeusOS Operating System. |
 
 ### Others
 | # | Tech | Experience Time | Relevant Jobs |
