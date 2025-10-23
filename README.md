@@ -25,10 +25,9 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> | Golang | 14 months | Currently planning and developing a REST API from scratch to manage all stages of a service provider company and also product sales. |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>| MongoDB | 14 months | Currently planning and developing a Database from scratch to manage all stages of a service provider company and also product sales. |
 | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> | GitHub | 5 years | Used to manage all my school and personal projects. |
-| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> | Figma | 5 years | Mobile and desktop application design for complete management of sales and service companies.
- |
-|  | OpenWRT | 2 years | Developments and improvements to Intelbras' ZeusOS Operating System. |
-|  | GitLab | 2 years | Used to manage all the private projects I worked on in the API, Documentation and Intelbras ZeusOS Operating System. |
+| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> | Figma | 5 years | Mobile and desktop application design for complete management of sales and service companies. |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> | OpenWRT | 2 years | Developments and improvements to Intelbras' ZeusOS Operating System. |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> | GitLab | 2 years | Used to manage all the private projects I worked on in the API, Documentation and Intelbras ZeusOS Operating System. |
 
 ### Others
 | # | Tech | Experience Time | Relevant Jobs |
