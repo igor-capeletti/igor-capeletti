@@ -34,7 +34,7 @@
 |:-------------:|:-------------:|:-----:| :-----:|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | C++ | 6 months | Development of a dynamic 3D scenario (work for the Computer Graphics course at the University) |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> | PostgreSQL | 5 months | Development and performance testing of requests (Database course at the University) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> | MySQL | 5 months | Implementation for a company's website |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> | MySQL | 2 years | Implementation for a company's website |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> | PHP | 2 years | Implementation for a company's website |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> | HTML | 2 years | Implementation for a company's website |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> | CSS | 2 years | Implementation for a company's website |
