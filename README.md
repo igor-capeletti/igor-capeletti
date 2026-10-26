@@ -1,17 +1,22 @@
 # Hi there, I'm Igor Ferrazza, welcome to my GitHub 👋
 
-## A little about myself
-- 💼 I'm currently developing web, desktop, and mobile software for companies using GoLang on the backend (Rest API) and MongoDB (database). On the frontend, I'm using JavaScript and React Native.
-- 💼 I worked at [CITeB](https://www.linkedin.com/company/fundacaociteb/mycompany/verification/) providing services as a back-end developer on embedded devices (Access Points) in [Intelbras](https://www.linkedin.com/company/intelbras/)' Zeus project. All my commits during my work at CITeB were made in Intelbras' exclusive GitLab. Programming languages ​​used:
-  - Lua (REST API and unit tests)
-  - OpenWRT (Operating System)
-  - C and ShellScript (low-level applications and services with hardware)
-  - Python (automated tests)
-- 🎓 English Course (in progress) - Yázigi, Ijuí-RS (since March 2025).
-- 🎓 Bachelor of Computer Science (Completed, 2018-2022) - [UNIPAMPA](http://novoportal.unipampa.edu.br/novoportal/), Alegrete-RS.
-  - Final project: Development and analysis of eBPF/XDP programs to process network packets in data plane forwarding devices. [tcc_eBPF_XDP](https://github.com/igor-capeletti/tcc_eBPF_XDP)
-- 🎓 Computer Technician (Completed, 2014-2016) - [Escola Técnica Estadual 25 de Julho](https://escola25dejulho.com.br/), Ijuí-RS.
+## 👋 A little about me
 
+- 💻 I'm a software developer working on web, desktop, and mobile applications for businesses. My current tech stack includes **Go (Golang)** for backend development and REST APIs, **MongoDB** for data storage, and **JavaScript** and **React Native** for frontend and mobile development.
+
+- 💼 Previously, I worked at [CITeB](https://www.linkedin.com/company/fundacaociteb/mycompany/verification/) as a **Backend Developer**, contributing to Intelbras' Zeus project, focused on embedded software for Access Points. The development work was carried out in Intelbras' private GitLab repositories. Technologies and tools I worked with included:
+  - **Lua** — REST API development and unit testing.
+  - **OpenWrt** — Embedded Linux operating system.
+  - **C and Shell scripting** — Low-level applications and hardware-related services.
+  - **Python** — Automated testing.
+
+- 🎓 **English Course** *(in progress, since March 2025)* — Yázigi, Ijuí-RS, Brazil.
+
+- 🎓 **Bachelor's Degree in Computer Science** *(2018–2022)* — [Federal University of Pampa (UNIPAMPA)](http://novoportal.unipampa.edu.br/novoportal/), Alegrete-RS, Brazil.
+  - **Undergraduate thesis:** Development and analysis of eBPF/XDP programs for network packet processing in data-plane forwarding devices.
+  - 📄 [Check out my thesis project: tcc_eBPF_XDP](https://github.com/igor-capeletti/tcc_eBPF_XDP).
+
+- 🎓 **Technical Degree in Computing** *(2014–2016)* — [Escola Técnica Estadual 25 de Julho](https://escola25dejulho.com.br/), Ijuí-RS, Brazil.
 
 ## Tech Stack 
 ### Current
