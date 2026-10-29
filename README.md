@@ -26,6 +26,27 @@
 
 - 🎓 Curso Técnico em Informática (2014–2016) — Escola Técnica Estadual 25 de Julho, Ijuí-RS, Brasil.
 
+## Por que escolhi a área da computação  
+Quando eu tinha entre 13 e 15 anos, já possuía um computador desktop, na época dos famosos Pentium 4. Certo dia, minha máquina apresentou alguns problemas que me impediram de continuar usando-a. Meus pais levaram o gabinete a três empresas de manutenção de computadores da cidade, mas nenhuma delas conseguiu identificar o problema. A última empresa sugeriu a troca de algumas peças, e assim o computador voltou a funcionar.
+
+Quando meus pais me contaram que o conserto havia custado quase mil reais, fiquei impressionado com o valor, principalmente para aquela época. Apesar disso, o assunto acabou ficando por ali. O importante era que eu tinha meu computador de volta e poderia jogar e aproveitar meu tempo livre novamente.
+
+Algum tempo depois, chegou à minha casa a tão esperada internet via rádio. Como sempre fui muito curioso, comecei a pesquisar diversas coisas na internet, inclusive sobre o problema que havia custado tanto dinheiro para resolver. Foi então que descobri a verdadeira causa e percebi que a solução era muito mais simples do que eu imaginava, e que o problema poderia ter sido resolvido sem a necessidade de gastar tanto com a troca de peças.
+
+Aquilo me deixou indignado. Eu me perguntava como algo aparentemente tão simples poderia ter gerado um custo tão alto. Passei alguns dias pensando sobre o assunto e, de certa forma, comecei a enxergar meu futuro naquela situação. Imaginei que, um dia, poderia trabalhar com computadores, ajudar as pessoas a resolver seus problemas de verdade e oferecer soluções eficientes por um preço justo.
+
+Naquele momento, sem perceber, comecei a descobrir algo que se tornaria muito importante para mim: meu propósito de vida. Mais do que consertar computadores, percebi que queria utilizar a tecnologia para transformar ideias em soluções e, de alguma forma, contribuir para tornar o mundo melhor por meio dela.
+
+Quando chegou a hora de escolher um curso para o ensino médio, minha primeira vontade foi fazer Técnico em Informática. Porém, meu pai acreditava que eu teria mais oportunidades e uma remuneração melhor se seguisse a área de Eletrotécnica. Decidi dar uma chance à ideia e cursei aproximadamente três semestres, mas acabei desistindo. Embora tivesse facilidade com os conteúdos, sentia que aquela não era a área em que realmente me encaixava.
+
+Depois de um tempo, consegui ingressar no curso de Informática da escola ETE 25 de Julho, em Ijuí. Nem tudo foi fácil durante essa trajetória, mas sempre procurei enfrentar as dificuldades, superar os obstáculos e seguir em frente. Mesmo diante dos desafios, conseguia bons resultados e percebia que estava no caminho certo.
+
+Foi durante o curso que descobri a área que mais despertava meu interesse: a programação. Percebi que tinha facilidade para compreender sua lógica e que gostava do processo de transformar ideias em algo concreto, capaz de resolver problemas reais.
+
+E foi assim que tudo começou. O que surgiu ainda na adolescência, a partir de um problema com meu próprio computador, acabou se tornando muito mais do que uma curiosidade. Tornou-se uma motivação, uma escolha profissional e a vontade de construir soluções tecnológicas que realmente façam a diferença na vida das pessoas.
+
+Hoje, entendo que minha escolha pela computação não aconteceu por acaso. Ela nasceu da curiosidade, da indignação diante de uma situação que considerei injusta e do desejo de fazer diferente. Foi ali que começou minha jornada para me tornar programador — e, desde então, sigo buscando transformar ideias em soluções por meio da tecnologia.
+
 ## Contato:
 📫 igorfcapeletti@gmail.com
 📫 igor-capeletti@hotmail.com
