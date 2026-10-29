@@ -1,6 +1,6 @@
 # Olá! Sou Ígor Ferrazza Capeletti, seja bem-vindo ao meu GitHub 👋
 
-## 👋 Um pouco sobre mim
+## Um pouco sobre mim
 
 - 💻 Sou **Analista e Desenvolvedor de Softwares** trabalhando atualmente com aplicações e sistemas SaaS próprios e sob demanda para empresas. Minha stack tecnológica atual inclui:
   - Go (Golang) — Desenvolvimento backend e APIs REST.
