@@ -2,12 +2,19 @@
 
 ## Um pouco sobre mim
 
-- 💻 Sou **Analista e Desenvolvedor de Softwares** trabalhando atualmente com aplicações e sistemas SaaS próprios e sob demanda para empresas. Minha stack tecnológica atual inclui:
+- 💻 Sou **Analista e Desenvolvedor de Softwares** trabalhando atualmente com aplicações e sistemas **SaaS** próprios e sob demanda para empresas. Minha stack tecnológica atual inclui:
   - **Go (Golang)** — Desenvolvimento backend e APIs REST.
   - **MongoDB** — Banco de Dados NoSQL para armazenamento de dados.
   - **HTML, CSS, JavaScript e React Native** — Desenvolvimento frontend e mobile.
   - **Scrum e Kanban** — Gestão dinâmica e ágil dos projetos.
   - **GitHub** — Controle e versionamento de código.
+ 
+- 💼 Atualmente, atuo como professor de Programação e Manutenção no curso Técnico em Informática da ETE 25 de Julho, em Ijuí. Minha atuação como professor busca integrar teoria e prática, aproximando os estudantes dos desafios reais da área de tecnologia e incentivando o desenvolvimento de profissionais com pensamento crítico, responsabilidade ética e compromisso com a qualidade das soluções desenvolvidas.
+Principais tecnologias e conteúdos abordados:
+  - **HTML5 e CSS3** — Fundamentos e práticas atuais para o desenvolvimento de interfaces web modernas, responsivas, acessíveis e bem estruturadas, priorizando a usabilidade e a qualidade visual.
+  - **Banco de Dados** — Conceitos e práticas de modelagem, consulta e gerenciamento de bancos de dados relacionais, com foco na integridade dos dados, na segurança das informações, na otimização de consultas e no uso responsável dos dados.
+  - **PHP** — Fundamentos e práticas de desenvolvimento back-end para a criação de sistemas web funcionais, robustos, seguros e eficientes, integrando boas práticas de programação, otimização de código e integração com bancos de dados.
+  - **Manutenção (Hardware/Software)** — Diagnóstico, correção, validação e prevenção de problemas de hardware e software.
 
 - 💼 Anteriormente, trabalhei no [CITeB](https://www.linkedin.com/company/fundacaociteb/mycompany/verification/) como **Desenvolvedor Backend** (2 anos e 6 meses), contribuindo para o projeto **[ZEUS OS](https://www.intelbras.com/pt-br/sistema-operacional-para-dispositivos-de-rede-zeus-os)** da **Intelbras**, com foco em softwares embarcados para Access Points da Intelbras. O desenvolvimento foi realizado nos repositórios privados do GitLab da Intelbras. As tecnologias e ferramentas com as quais trabalhei incluem:
   - **Lua** — Desenvolvimento de novas funcionalidades, correções e testes unitários da API REST.
